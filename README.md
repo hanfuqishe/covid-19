@@ -13,4 +13,6 @@ The PPT in this project introduces Tradional Chinese medicine prescriptions with
 Note that they come from another civilization.
 Maybe difficult to understand, but easy to verify.
 
+And this is not a commercial activity, because the prescriptions recommended here are completely free.
+
 Hope it can help you.
